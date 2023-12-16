@@ -1,0 +1,240 @@
+Attack detected at 2023-12-16 14:32:32.914908.
+IP: 192.168.1.75
+==================================================
+Attack detected at 2023-12-16 14:35:53.950319.
+IP: 192.168.1.75
+==================================================
+Attacks recorded at 2023-12-16 14:41:07.800030.
+IP: 192.168.1.75
+Attack Details:
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+==================================================
+Attacks recorded at 2023-12-16 14:42:48.034659.
+IP: 192.168.1.75
+Attack Details:
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+==================================================
+Attacks recorded at 2023-12-16 14:44:52.887010.
+IP: 192.168.1.75
+Attack Details:
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+==================================================
+Attacks recorded at 2023-12-16 14:46:01.749248.
+IP: 192.168.1.75
+Attack Details:
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+==================================================
+Attacks recorded at 2023-12-16 14:49:06.385252.
+IP: 192.168.1.75
+Attack Details:
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+==================================================
+Attacks recorded at 2023-12-16 15:04:12.820451.
+IP: 192.168.1.75
+Attack Details:
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+Brute force attack unsuccessful.
+==================================================
